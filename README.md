@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/TomasGervasoni">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Tomás+Gervasoni+!!!;Este+es+mi+portafolio;Entusiasta+en+Backend+y+Frontend;Apasionado+por+las+tecnologías+.NET" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=800&lines=Hola%2C%20soy%20Tom%C3%A1s%20Gervasoni%20%F0%9F%91%8B%20%21%21%21;Este%20es%20mi%20portafolio;Entusiasta%20en%20Backend%20y%20Frontend;Apasionado%20por%20las%20tecnolog%C3%ADas%20.NET" alt="Typing SVG" />
   </a>
 </p>
 
